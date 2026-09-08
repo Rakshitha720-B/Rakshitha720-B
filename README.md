@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Rakshi👋
 
 <!--
 **Rakshitha720-B/Rakshitha720-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
